@@ -26,7 +26,20 @@ Test exam from the previous year: [exam](Materials/exam_test.pdf), [reference_so
 
 | Date | Number | Topic | Materials |
 | :---: | :---: | --- | --- |
-| 07.09.25 | 01 | Introduction to the course. Cross-entropy method (CEM).	| [CEM for optimization](https://people.smp.uq.edu.au/DirkKroese/ps/CEopt.pdf)<br> [Tetris with CEM](https://www.researchgate.net/publication/6743957_Learning_Tetris_Using_the_Noisy_Cross-Entropy_Method)<br> [OpenAI ES](https://openai.com/blog/evolution-strategies/)<br> [Review of evolutionary strategies](https://lilianweng.github.io/lil-log/2019/09/05/evolution-strategies.html)<br> [WANN](https://arxiv.org/pdf/1906.04358.pdf) |
+| 07.09.26 | 01 | Introduction to the course. Cross-entropy method (CEM).	| [CEM for optimization](https://people.smp.uq.edu.au/DirkKroese/ps/CEopt.pdf)<br> [Tetris with CEM](https://www.researchgate.net/publication/6743957_Learning_Tetris_Using_the_Noisy_Cross-Entropy_Method)<br> [OpenAI ES](https://openai.com/blog/evolution-strategies/)<br> [Review of evolutionary strategies](https://lilianweng.github.io/lil-log/2019/09/05/evolution-strategies.html)<br> [WANN](https://arxiv.org/pdf/1906.04358.pdf) |
+| 14.09.26 | 02 |    |    |
+| 21.09.26 | 03 |    |    |
+| 28.09.26 | 04 |    |    |
+| 05.10.26 | 05 |    |    |
+| 12.10.26 | 06 |    |    |
+| 19.10.26 | 07 |    |    |
+| 26.10.26 | 08 |    |    |
+| 02.11.26 | 09 |    |    |
+| 09.11.26 | 10 |    |    |
+| 16.11.26 | 11 |    |    |
+| 23.11.26 | 12 |    |    |
+| 30.11.26 | 13 |    |    |
+| 07.12.26 | 14 |    |    |
 
 ## Materials
 [R.Sutton, A.Barto. Reinforcement Learning: An Introduction, 2018](https://drive.google.com/file/d/1Z4W_-0IaMNpZnhnMkqcDVM_EA79GFJo-/view)
