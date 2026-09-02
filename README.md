@@ -20,7 +20,7 @@ Completion: To pass this module, the examination of each module component must b
 
 ## Exam
 
-Test exam from the previous year: [exam](Materials/exam_test.pdf), [reference_solution](Materials/exam_test_answers.pdf)
+Test exam from the previous year: [exam](https://github.com/cub-reinforcement-learning/fall25/blob/main/Materials/exam_test.pdf), [reference_solution](https://github.com/cub-reinforcement-learning/fall25/blob/main/Materials/exam_test_answers.pdf)
 
 ## Lectures
 
