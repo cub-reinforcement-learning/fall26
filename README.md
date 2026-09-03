@@ -6,7 +6,7 @@ Unlike classical machine learning, in reinforcement learning, the algorithm does
 
 **Timetable**: on Mondays at 17:15. The room will be mostly IRC Seminar Room I, but some classes will be in EH-4 (see table with lectures). The first class is planned on the 7th of September.
 
-**Telegram chat for questions and discussion**: TBA
+**Telegram chat for questions and discussion**: [link](https://t.me/+b--IJpxWYBo1NzMy)
 
 **Assignments**: All assignments are given and checked in the corresponding Teams space. All assignments can be uploaded within one week after deadline with penalty 0.5 points per day.
 
