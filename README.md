@@ -4,6 +4,8 @@ Unlike classical machine learning, in reinforcement learning, the algorithm does
 
 **Instructor**: Dmitry Kropotov
 
+**Teacher assistant**: Danila Biktimirov
+
 **Timetable**: on Mondays at 17:15 in hybrid mode. The room will be mostly IRC Seminar Room I, but some classes will be in EH-4 (see table with lectures). The first class is planned on the 7th of September.
 
 **Zoom for classes:** [link](https://constructor-university.zoom-x.de/j/65368517601?pwd=VtvIsDJxravJzZHcjsxRCVRnnaQyY6.1)
