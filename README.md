@@ -33,7 +33,7 @@ Test exam from the previous year: [exam](https://github.com/cub-reinforcement-le
 | Date | Number | Room | Topic | Materials |
 | :---: | :---: | --- | --- | --- |
 | 07.09.26 | 01 | IRC Seminar I | Introduction to the course. Cross-entropy method (CEM).	| [Whiteboard](Materials/RL01.pdf)<br> [CEM for optimization](https://people.smp.uq.edu.au/DirkKroese/ps/CEopt.pdf)<br> [Tetris with CEM](https://www.researchgate.net/publication/6743957_Learning_Tetris_Using_the_Noisy_Cross-Entropy_Method)<br> [OpenAI ES](https://openai.com/blog/evolution-strategies/)<br> [Review of evolutionary strategies](https://lilianweng.github.io/lil-log/2019/09/05/evolution-strategies.html)<br> [WANN](https://arxiv.org/pdf/1906.04358.pdf) |
-| 14.09.26 | 02 | IRC Seminar I |   |    |
+| 14.09.26 | 02 | IRC Seminar I | Bellman equations for value functions. Policy Iteration (PI) and Value Iteration (VI) |   [Whiteboard](Materials/RL02.pdf)<br> Sutton, Barto, ch.3-4<br> [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html) |
 | 21.09.26 | 03 | EH-4   |    |
 | 28.09.26 | 04 | IRC Seminar I |   |    |
 | 05.10.26 | 05 | IRC Seminar I |   |    |
