@@ -37,7 +37,7 @@ Test exam from the previous year: [exam](https://github.com/cub-reinforcement-le
 | 21.09.26 | 03 | EH-4   | Model-free RL: Monte Carlo, SARSA, Q-learning, E-SARSA. TD(lambda) return estimates.  | [Video](https://youtu.be/7IYP7iNuwak)<br> [Slides](http://www.machinelearning.ru/wiki/images/3/34/TD_learning_2021.pdf)<br>Sutton, Barto, ch.5-6<br> [Visualization of TD-learning (distill)](https://distill.pub/2019/paths-perspective-on-value-learning/)  |
 | 28.09.26 | 04 | IRC Seminar I | Deep Q Network (DQN), Rainbow DQN  | [Whiteboard](Materials/RL04.pdf)<br> [Video](https://youtu.be/3KRS3iwlMm0)<br> [Slides](http://www.machinelearning.ru/wiki/images/3/3c/Deep_Q_learning_2021.pdf)   |
 | 05.10.26 | 05 | IRC Seminar I | Distributional RL: QR-DQN, IQN  | [Whiteboard](Materials/RL05.pdf)<br> [Video](https://youtu.be/qKTyEaYDtFI)   |
-| 12.10.26 | 06 | IRC Seminar I |   |    |
+| 12.10.26 | 06 | IRC Seminar I | Policy Gradient methods: REINFORCE, A2C   | [Whiteboard](Materials/RL06.pdf)<br> [Video](https://youtu.be/vAaLZFQZp1k)   |
 | 19.10.26 | 07 | IRC Seminar I |   |    |
 | 26.10.26 | 08 | EH-4   |    |
 | 02.11.26 | 09 | IRC Seminar I |   |    |
