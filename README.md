@@ -40,7 +40,7 @@ Test exam from the previous year: [exam](https://github.com/cub-reinforcement-le
 | 12.10.26 | 06 | IRC Seminar I | Policy Gradient methods: REINFORCE, A2C   | [Whiteboard](Materials/RL06.pdf)<br> [Video](https://youtu.be/vAaLZFQZp1k)   |
 | 19.10.26 | 07 | IRC Seminar I | Trust Region Policy Optimization (TRPO)  | [Whiteboard](Materials/RL07.pdf)<br> [Video](https://youtu.be/IRpo2Oaf3Ls)   |
 | 26.10.26 | 08 | EH-4   | Proximal Policy Optimization (PPO), Deep Deterministic Policy Gradient (DDPG)   | [Video](https://youtu.be/vpwrAfmyoFA)
-| 02.11.26 | 09 | IRC Seminar I |   |    |
+| 02.11.26 | 09 | IRC Seminar I | Squashed Normal distribution for continuous control. Soft Actor Critic (SAC).  | [Whiteboard](Materials/RL09.pdf)<br> [Video](https://youtu.be/d4ZFckRdUkM)   |
 | 09.11.26 | 10 | IRC Seminar I |   |    |
 | 16.11.26 | 11 | IRC Seminar I |   |    |
 | 23.11.26 | 12 | IRC Seminar I |   |    |
