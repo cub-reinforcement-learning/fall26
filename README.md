@@ -8,7 +8,7 @@ Unlike classical machine learning, in reinforcement learning, the algorithm does
 
 **Timetable**: on Mondays at 17:15 in hybrid mode. The room will be mostly IRC Seminar Room I, but some classes will be in EH-4 (see table with lectures). The first class is planned on the 7th of September.
 
-**Zoom for classes:** [link](https://constructor-university.zoom-x.de/j/65368517601?pwd=VtvIsDJxravJzZHcjsxRCVRnnaQyY6.1)
+**Zoom for classes:** [link](https://us02web.zoom.us/j/83505315629?pwd=giBrkvEJEaEjGGS1IwSDXZA1bvYsDM.1)
 
 **Telegram chat for questions and discussion**: [link](https://t.me/+b--IJpxWYBo1NzMy)
 
