@@ -26,6 +26,8 @@ Completion: To pass this module, the examination of each module component must b
 
 ## Exam
 
+The written exam is planned for the 18th of December, 12:30 - 13:30, ICC Conference Room.
+
 Test exam from the previous year: [exam](https://github.com/cub-reinforcement-learning/fall25/blob/main/Materials/exam_test.pdf), [reference_solution](https://github.com/cub-reinforcement-learning/fall25/blob/main/Materials/exam_test_answers.pdf)
 
 ## Lectures
