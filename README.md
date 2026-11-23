@@ -45,7 +45,7 @@ Test exam from the previous year: [exam](https://github.com/cub-reinforcement-le
 | 02.11.26 | 09 | IRC Seminar I | Squashed Normal distribution for continuous control. Soft Actor Critic (SAC).  | [Whiteboard](Materials/RL09.pdf)<br> [Video](https://youtu.be/d4ZFckRdUkM)   |
 | 09.11.26 | 10 | IRC Seminar I | Exploration in RL: Count-based (SimHash, Pseudo-Counts), ICM, RND, Go-Explore  | [Whiteboard](Materials/RL10.pdf)<br> [Video](https://youtu.be/UHYcMXhUZbw)   |
 | 16.11.26 | 11 | IRC Seminar I | Model-based RL for discrete actions. AlphaZero, MuZero, EfficientZero.  | [Whiteboard](Materials/RL11.pdf)<br> [Video](https://youtu.be/Svgobw3ojUU)   |
-| 23.11.26 | 12 | IRC Seminar I | Model-based RL for continuous control. PETS with CEM planning. LQR and iLQR. MBPO.  | [Whiteboard](Materials/RL12.pdf)<br>    |
+| 23.11.26 | 12 | IRC Seminar I | Model-based RL for continuous control. PETS with CEM planning. LQR and iLQR. MBPO.  | [Whiteboard](Materials/RL12.pdf)<br> [Video](https://youtu.be/qiP_aDFwGeI)   |
 | 30.11.26 | 13 | IRC Seminar I |   |    |
 | 07.12.26 | 14 | IRC Seminar I |   |    |
 
